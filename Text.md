@@ -4,6 +4,10 @@
 [This link is to the readMe](../master/README.md)  
 [This image is in this repository](../master/Trippie-Redd-Lifes-A-Trip-Album-Art.jpg)  
 [This image is from the web](http://thefederalist.com/wp-content/uploads/2015/11/Mizzou-Discovery-998x499.jpg)  
+```python
+print("this is python code")
+return NULL
+```
 
 >This is in blockquotes
 + This is
